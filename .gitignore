@@ -1,5 +1,6 @@
 # This .gitignore file should be placed at the root of your Unity project directory
-#
+# 아래 폴더에 있는, 또는 확장자는 저장하지 않는다는 뜻! 
+# 유저 세팅이나 기록 로그, 라이브러리(이건 진짜 공유 안 되어야하 함!) 등 공유가 필요 없는 요소들이 해당 됨.
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 .utmp/
